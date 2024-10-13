@@ -1,2 +1,2 @@
-# INTEGRATEDCA2V
+# ITime Series & Sentiment Analysis: Trends and Insights
  

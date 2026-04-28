@@ -1,7 +1,11 @@
 📊 Key Insights Preview
+
 Sentiment trends over time
+
 Distribution of positive/negative tweets
+
 Time-series patterns using PySpark
+
 👉 Full analysis available in notebook below
 
 ## 📊 Notebooks

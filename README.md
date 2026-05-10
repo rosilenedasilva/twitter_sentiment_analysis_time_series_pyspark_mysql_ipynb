@@ -1,10 +1,10 @@
 # 📊 Twitter Sentiment Time Series Analysis
 
-## 📊 Business Problem
+## Business Problem
 
 How can large-scale social media data be analysed to identify sentiment trends and shifts in public opinion over time?
 
-## 🧠 Solution
+## Solution
 
 Developed a scalable data processing workflow using PySpark and MySQL to analyse Twitter sentiment data and perform time-series analysis.
 
@@ -14,11 +14,11 @@ Developed a scalable data processing workflow using PySpark and MySQL to analyse
 * Analysed relationships between tweet activity and sentiment changes
 * Demonstrated large-scale data processing using PySpark
 
-## 🔍 Project Overview
+## Project Overview
 
 This project explores Twitter sentiment data to uncover patterns in public opinion over time. It focuses on scalable data processing, sentiment analysis, and time-series insights using big data technologies.
 
-## 🛠 Tech Stack
+## Tech Stack
 
 * Python
 * PySpark
@@ -34,14 +34,14 @@ This project explores Twitter sentiment data to uncover patterns in public opini
 * Aggregated sentiment results over time
 * Analysed sentiment trends and tweet activity patterns
 
-## 🚀 Key Takeaways
+## Key Takeaways
 
 * Sentiment varies over time and may reflect changes in public opinion
 * Peaks in tweet activity can align with sentiment shifts
 * Aggregated time-series analysis provides clearer insights than raw data
 * Distributed processing enables scalable analysis of larger datasets
 
-## 📓 Notebooks
+## Notebooks
 
 **Data processing notebook:**
 👉 [View Notebook](./pyspark_mysql.ipynb)
